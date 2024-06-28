@@ -1,5 +1,5 @@
 
-<h>Hi, I'm Emmanuel! <br> Thanks for checking in, I am... <br/><a href="https://www.linkedin.com/in/emmanuel-usen/"><h5>Aspiring Software Engineer | Computer Science Student @ Kibo School | UiUx Designer| Python, JavaScript, Express, React | Data Analyst and Product Marketer</h> <br>
+<h>Hi, I'm Emmanuel! <br> Thanks for checking in, I am... <br/><a href="https://www.linkedin.com/in/emmanuel-usen/"><h5>Software Engineer | Computer Science Student @ Kibo School | UiUx Designer| Python, JavaScript, Express, React | Data Analyst and Product Marketer</h> <br>
 <h> I am well skilled in the knowledge of Python, Javascript, HTML, Bootsrap alongside other web frameworks like Flask, Express and Django</h> <br> <h>I am passionate about working with individuals and Teams to create and build projects with life changing impacts<h>
 
 <h3>👨‍💻Projects:</h3>
